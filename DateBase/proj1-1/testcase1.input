@@ -1,0 +1,9 @@
+delete from table where table.table is not null;
+delete from table where table.table is not
+null;
+delete from table where table.table is
+not
+null;
+delete from table where table.table is
+not null;
+
